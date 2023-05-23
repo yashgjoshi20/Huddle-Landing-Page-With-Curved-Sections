@@ -1,8 +1,8 @@
 # Frontend Mentor - Huddle landing page with curved sections
 
-This is a solution to the[Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
+This is a solution to the [Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
 
-## [📃💻 Website view 🖱🖥](https://)
+## [📃💻 Website view 🖱🖥](https://yashgjoshi20.github.io/Huddle-Landing-Page-With-Curved-Sections/)
 
 ## Table of contents
 
@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Order-Summary-Component-Using-CSS.git)
-- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Order-Summary-Component-Using-CSS/)
+- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Huddle-Landing-Page-With-Curved-Sections.git)
+- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Huddle-Landing-Page-With-Curved-Sections/)
 
 ## My process
 
